@@ -1,8 +1,4 @@
 {
-    "semi"
-:
-    true,
-        "trialingComma"
-:
-    "es5"
+  "semi": true,
+  "trailingComma": "es5"
 }
