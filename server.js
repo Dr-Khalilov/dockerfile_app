@@ -11,8 +11,7 @@ app.get('/test', (req, res) => {
 });
 
 app.get('/html', (req, res) => {
-    res.send(`
-<div>
+    res.send(`<div>
 <h1>HELLO</h1>
 <p>test paragraph</p>
 </div>`);
